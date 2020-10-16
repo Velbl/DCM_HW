@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=Energetski deo Member=P6
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4H New Footprint=HEADER 4 PIN
+Change Component Footprint: Designator=P3 Old Footprint=HEADER 2 PIN New Footprint=SHDR2W100P0X500_1X2_1000X820X1020P
+Change Component Comment : Designator=P3 Old Comment=Header 2 New Comment=Connector 2
+Change Component Comment : Designator=P1 Old Comment=Header 4H New Comment=Header
+Change Component Comment : Designator=P2 Old Comment=Header 8 New Comment=Connector 8
+Change component parameters: Designator = "P1"; Footprint = "HEADER 4 PIN"; UniqueID = "\RNIHSXBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282836&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description"; Value = "4 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "A136029-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3-282836-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "HEADER 8 PIN"; UniqueID = "\GUXJDKCU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1727078.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description"; Value = "8 Position Wire to Board Terminal Block Horizontal with Board 0.150" (3.81mm) Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "277-1953-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1727078"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "SHDR2W100P0X500_1X2_1000X820X1020P"; UniqueID = "\NKNWFFND"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "  Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description "; Value = " 2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "A98076-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer "; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Added Component: Designator=P4(SHDR2W100P0X500_1X2_1000X820X1020P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "  Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = " 2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "A98076-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer "; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=R22-2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=R23-1
+Added Net: Name=NetP4_2
+Added Member To Class: ClassName=Energetski deo Member=Component P4 Connector 2
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

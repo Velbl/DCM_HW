@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=26V Pin=C21-1
+Removed Pin From Net: NetName=26V Pin=R11-1
+Removed Pin From Net: NetName=26V Pin=ZD7-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=ZD7-1
+Added Member To Class: ClassName=Energetski deo Member=Component Q1 STP7NK40Z
+Added Member To Class: ClassName=Napajanje_1 Member=Component Q5 STP7NK40Z
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

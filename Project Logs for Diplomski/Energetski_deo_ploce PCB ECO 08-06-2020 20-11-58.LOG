@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetIC9_6 Pin=IC9-6
+Added Pin To Net: NetName=NetIC9_6 Pin=IC9-7
+Change Net Name : Old Net Name=NetIC9_6 New Net Name=NetIC9_7
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR6 W04G-E4/51GI-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

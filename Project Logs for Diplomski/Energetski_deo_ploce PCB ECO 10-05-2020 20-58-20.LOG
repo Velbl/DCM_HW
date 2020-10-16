@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VSS Pin=Q10-1
+Removed Pin From Net: NetName=NetIC9_30 Pin=Q10-2
+Removed Pin From Net: NetName=NetIC10_3 Pin=Q10-3
+Added Component: Designator=Q10(MOSFET, 400V, 5,4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=Q10-1
+Added Pin To Net: NetName=NetIC9_30 Pin=Q10-2
+Added Pin To Net: NetName=NetIC10_3 Pin=Q10-3
+Added Member To Class: ClassName=Upravljacki deo Member=Component C10 BC1160TR-ND
+Added Member To Class: ClassName=Energetski deo Member=Component D3 1N4007FSCT-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component Q6 STP7NK40Z
+Added Member To Class: ClassName=Napajanje_1 Member=Component R2 270QBK-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

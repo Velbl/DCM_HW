@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Napajanje_1 Member=LM358AP
+Change Component Footprint: Designator=C23 Old Footprint=CAPC0603X33N New Footprint=CAPC1005X55N
+Change Component Comment : Designator=C23 Old Comment=GRM033R61A104ME15D New Comment=GRM155R61A102KA01D
+Change Component Designator: OldDesignator=dspic30f4011 NewDesignator=IC9
+Change Component Designator: OldDesignator=LM358AP NewDesignator=OP_EMF
+Change Component Designator: OldDesignator=LM358AP NewDesignator=OP_VDC
+Change component parameters: Designator = "C23"; Footprint = "CAPC1005X55N"; UniqueID = "\MXTLBBVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM155R61A102KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm155r61a102ka01d/murata-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM155R61A102KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM155R61A102KA1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM155R61A102KA1D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Napajanje_1 Member=Component OP_VDC OP AMP
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

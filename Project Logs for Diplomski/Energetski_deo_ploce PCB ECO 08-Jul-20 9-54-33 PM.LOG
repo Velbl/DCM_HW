@@ -1,0 +1,195 @@
+Removed Pin From Net: NetName=26V_h1 Pin=BR2-1
+Removed Pin From Net: NetName=MOT+ Pin=BR2-3
+Removed Pin From Net: NetName=26V_h2 Pin=BR3-1
+Removed Pin From Net: NetName=MOT- Pin=BR3-3
+Removed Pin From Net: NetName=26V_l34 Pin=BR4-1
+Removed Pin From Net: NetName=GND Pin=BR4-3
+Removed Pin From Net: NetName=26V_vcc Pin=BR5-1
+Removed Pin From Net: NetName=VSS Pin=BR5-3
+Removed Pin From Net: NetName=GND Pin=CE1-2
+Removed Pin From Net: NetName=NetACS712_1 Pin=D1-1
+Removed Pin From Net: NetName=REF Pin=D1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-1
+Removed Pin From Net: NetName=REF Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=NetACS712_1 Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=NetD2_1 Pin=D4-2
+Removed Pin From Net: NetName=NetIC9_5 Pin=IC12-1
+Removed Pin From Net: NetName=VSS Pin=IC12-2
+Removed Pin From Net: NetName=VSS Pin=IC12-4
+Removed Pin From Net: NetName=VCC Pin=IC12-8
+Removed Pin From Net: NetName=NetIC9_6 Pin=IC13-1
+Removed Pin From Net: NetName=VSS Pin=IC13-4
+Removed Pin From Net: NetName=VCC Pin=IC13-8
+Removed Pin From Net: NetName=NetIC9_4 Pin=IC14-1
+Removed Pin From Net: NetName=GND Pin=IC14-2
+Removed Pin From Net: NetName=VSS Pin=IC14-4
+Removed Pin From Net: NetName=VCC Pin=IC14-8
+Removed Pin From Net: NetName=REF Pin=R0-1
+Removed Pin From Net: NetName=VCC Pin=R8-1
+Removed Pin From Net: NetName=NetIC9_1 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=NetIC12_3 Pin=R14-1
+Removed Pin From Net: NetName=NetACS712_7 Pin=R14-2
+Removed Pin From Net: NetName=VSS Pin=R15-1
+Removed Pin From Net: NetName=NetIC9_6 Pin=R17-2
+Removed Pin From Net: NetName=NetP4_1 Pin=R22-2
+Removed Member From Class: ClassName=Napajanje_2 Member=BR2
+Removed Member From Class: ClassName=Napajanje_2 Member=BR3
+Removed Member From Class: ClassName=Napajanje_2 Member=BR4
+Removed Member From Class: ClassName=Napajanje_2 Member=BR5
+Removed Member From Class: ClassName=Napajanje_2 Member=P2
+Change Component Comment : Designator=IC12 Old Comment=LEM New Comment=TLC27M4AIN
+Change Component Comment : Designator=P5 Old Comment=MPLAB connector New Comment=MPLAB_con
+Change Component Designator: OldDesignator=BR1 NewDesignator=BR_NAP
+Change Component Designator: OldDesignator=BR6 NewDesignator=BR_TIR
+Change Component Designator: OldDesignator=P1 NewDesignator=CIN1
+Change component parameters: Designator = "IC12"; UniqueID = "\JTGNYFUU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TLC27M4AIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlc27m4a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLC27M4AIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TLC27M4AIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLC27M4AIN"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor code"; Value = "311-3781-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer code"; Value = "CC0402KRNPO9BN220"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor code"; Value = "311-3781-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer code"; Value = "CC0402KRNPO9BN220"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X56N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "04025A220JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/04025a220jat2a/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "04025A220JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-04025A220J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-04025A220J"; VariantName = "[No Variations]"
+Added Component: Designator=CIN2(HEADER 8 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1727078.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "8 Position Wire to Board Terminal Block Horizontal with Board 0.150" (3.81mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "277-1953-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1727078"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(HC-49-4H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://ecsxtal.com/store/pdf/hc-49usx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor code"; Value = "XC1740-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ECS Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer code"; Value = "ECS-73-18-4XEN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=IC9-20
+Added Pin To Net: NetName=VSS Pin=IC9-21
+Added Pin To Net: NetName=VSS Pin=IC9-31
+Added Pin To Net: NetName=VCC Pin=IC9-32
+Added Pin To Net: NetName=NetIC9_6 Pin=IC12-1
+Added Pin To Net: NetName=VCC Pin=IC12-4
+Added Pin To Net: NetName=NetIC9_4 Pin=IC12-7
+Added Pin To Net: NetName=VCC Pin=P5-2
+Added Pin To Net: NetName=VSS Pin=P5-3
+Added Pin To Net: NetName=NetIC9_1 Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=VSS Pin=R14-1
+Added Pin To Net: NetName=NetIC9_6 Pin=R17-1
+Added Pin To Net: NetName=NetP4_1 Pin=R22-1
+Added Pin To Net: NetName=NetIC12_3 Pin=R22-2
+Added Pin To Net: NetName=NetIC12_3 Pin=R23-2
+Change Net Name : Old Net Name=12VAC New Net Name=12VP
+Change Net Name : Old Net Name=20VAC New Net Name=20VP
+Change Net Name : Old Net Name=26V_h1 New Net Name=26V1
+Change Net Name : Old Net Name=26V_h2 New Net Name=26V2
+Change Net Name : Old Net Name=26V_l34 New Net Name=26V34
+Change Net Name : Old Net Name=26V_vcc New Net Name=26VD
+Change Net Name : Old Net Name=GND_AC_1 New Net Name=20VN
+Change Net Name : Old Net Name=GND_AC_2 New Net Name=12VN
+Change Net Name : Old Net Name=NetBR6_1 New Net Name=NetBR_TIR_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetP3_1
+Change Net Name : Old Net Name=REF New Net Name=TK
+Added Pin To Net: NetName=20VN1 Pin=CIN2-2
+Added Net: Name=20VN1
+Added Pin To Net: NetName=20VN2 Pin=CIN2-4
+Added Net: Name=20VN2
+Added Pin To Net: NetName=20VN3 Pin=CIN2-6
+Added Net: Name=20VN3
+Added Pin To Net: NetName=20VND Pin=CIN2-8
+Added Net: Name=20VND
+Added Pin To Net: NetName=20VP1 Pin=CIN2-1
+Added Net: Name=20VP1
+Added Pin To Net: NetName=20VP2 Pin=CIN2-3
+Added Net: Name=20VP2
+Added Pin To Net: NetName=20VP3 Pin=CIN2-5
+Added Net: Name=20VP3
+Added Pin To Net: NetName=20VPD Pin=CIN2-7
+Added Net: Name=20VPD
+Added Net: Name=26V_l34
+Added Pin To Net: NetName=NetIC12_2 Pin=IC12-2
+Added Pin To Net: NetName=NetIC12_2 Pin=R16-1
+Added Pin To Net: NetName=NetIC12_2 Pin=R17-2
+Added Net: Name=NetIC12_2
+Added Pin To Net: NetName=NetIC12_5 Pin=IC12-5
+Added Pin To Net: NetName=NetIC12_5 Pin=R1-1
+Added Pin To Net: NetName=NetIC12_5 Pin=R2-2
+Added Net: Name=NetIC12_5
+Added Pin To Net: NetName=NetIC12_6 Pin=IC12-6
+Added Pin To Net: NetName=NetIC12_6 Pin=R12-1
+Added Pin To Net: NetName=NetIC12_6 Pin=R13-1
+Added Net: Name=NetIC12_6
+Added Pin To Net: NetName=NetIC12_13 Pin=R14-2
+Added Pin To Net: NetName=NetIC12_13 Pin=R15-1
+Added Net: Name=NetIC12_13
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=R16-2
+Added Pin To Net: NetName=NetP4_2 Pin=R23-1
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Net: Name=NetR12_2
+Change Class Name : Old Net Name=Napajanje_2 New Net Name=Napajanje_1
+Added Member To Class: ClassName=Upravljacki deo Member=Component ACS712 Current sensor
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR_NAP W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR_TIR W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component C1 1C20Z5U334M050B-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component C22 C0805C104K9RACTU
+Added Member To Class: ClassName=Upravljacki deo Member=Component C23 C1206Y102K9RAC7800
+Added Member To Class: ClassName=Napajanje_1 Member=Component C? 04025A220JAT2A
+Added Member To Class: ClassName=Upravljacki deo Member=Component C? Cap 0402 22p
+Added Member To Class: ClassName=Upravljacki deo Member=Component C? Cap 0402 22p
+Added Member To Class: ClassName=Napajanje_1 Member=Component CE1 399-6104-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component CIN1 Header
+Added Member To Class: ClassName=Napajanje_1 Member=Component CIN2 Connector 8
+Added Member To Class: ClassName=Napajanje_1 Member=Component D0 1N4007FSCT-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component IC12 TLC27M4AIN
+Added Member To Class: ClassName=Upravljacki deo Member=Component P3 Connector 2
+Added Member To Class: ClassName=Upravljacki deo Member=Component P4 Connector 2
+Added Member To Class: ClassName=Napajanje_1 Member=Component Q1 STP7NK40ZFP
+Added Member To Class: ClassName=Napajanje_1 Member=Component Q2 STP7NK40ZFP
+Added Member To Class: ClassName=Napajanje_1 Member=Component Q3 STP7NK40ZFP
+Added Member To Class: ClassName=Napajanje_1 Member=Component Q4 STP7NK40ZFP
+Added Member To Class: ClassName=Napajanje_1 Member=Component Q5 STP7NK40ZFP
+Added Member To Class: ClassName=Napajanje_1 Member=Component R0 140XBK-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component R1 270QBK-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component R2 270QBK-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component R3 270QBK-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R12 CFR-25JR-52-10K
+Added Member To Class: ClassName=Upravljacki deo Member=Component R13 CFR-50JB-52-20K
+Added Member To Class: ClassName=Upravljacki deo Member=Component R14 CFR-25JR-52-10K
+Added Member To Class: ClassName=Upravljacki deo Member=Component R15 CFR-25JB-52-180K
+Added Member To Class: ClassName=Upravljacki deo Member=Component R16 CFR-25JR-52-10K
+Added Member To Class: ClassName=Upravljacki deo Member=Component R17 CFR-50JB-52-20K
+Added Member To Class: ClassName=Upravljacki deo Member=Component R22 270QBK-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R23 270QBK-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component T1 497-4480-5-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component Y? Crystal oscillator
+Added Room: Name=Napajanje_1
+Added Room: Name=Upravljacki deo

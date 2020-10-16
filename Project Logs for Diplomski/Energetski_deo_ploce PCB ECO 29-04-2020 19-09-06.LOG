@@ -1,0 +1,809 @@
+Added Component: Designator=BR1(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR2(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR3(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR4(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR5(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP3, 0.33uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/BC%20Components%20PDFs/1C-9C_Series_Rev_Sep_2015.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1C20Z5U334M050B-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1C20Z5U334M050B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP3, 0.33uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/BC%20Components%20PDFs/1C-9C_Series_Rev_Sep_2015.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1C20Z5U334M050B-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1C20Z5U334M050B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP3, 0.33uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/BC%20Components%20PDFs/1C-9C_Series_Rev_Sep_2015.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1C20Z5U334M050B-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1C20Z5U334M050B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP3, 0.33uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/BC%20Components%20PDFs/1C-9C_Series_Rev_Sep_2015.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1C20Z5U334M050B-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1C20Z5U334M050B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP3, 0.33uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/BC%20Components%20PDFs/1C-9C_Series_Rev_Sep_2015.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1C20Z5U334M050B-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1C20Z5U334M050B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP4, 0.1uF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC1160TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K104Z15Y5VF5TL2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=CE1(CAP2 100uF, 35V - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://api.kemet.com/component-edge/download/specsheet/ESK107M035AE3AA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6104-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESK107M035AE3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=CE2(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE3(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE4(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE5(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE6(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE7(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE8(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE9(CAP1 33uF, 35V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "33µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "399-6575-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESH336M035AC3AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE10(CAP8, 20uF, 16V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/42042/te.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "20µF 16V Aluminum Electrolytic Capacitors Axial, Can  2000 Hrs @ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "TE1157-E3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Sprague"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TE1157-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE11(CAP8, 20uF, 16V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/42042/te.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "20µF 16V Aluminum Electrolytic Capacitors Axial, Can  2000 Hrs @ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "TE1157-E3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Sprague"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TE1157-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE12(CAP8, 20uF, 16V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/42042/te.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "20µF 16V Aluminum Electrolytic Capacitors Axial, Can  2000 Hrs @ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "TE1157-E3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Sprague"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TE1157-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20µF"; VariantName = "[No Variations]"
+Added Component: Designator=CE13(CAP8, 20uF, 16V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.vishay.com/docs/42042/te.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "20µF 16V Aluminum Electrolytic Capacitors Axial, Can  2000 Hrs @ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "TE1157-E3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Sprague"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TE1157-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20µF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIODE, 1000V, 1A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.onsemi.com/pub/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Diode Standard 1000V 1A Through Hole DO-204AL (DO-41)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1N4007FSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIODE, 1000V, 1A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.onsemi.com/pub/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Diode Standard 1000V 1A Through Hole DO-204AL (DO-41)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1N4007FSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIODE, 1000V, 1A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.onsemi.com/pub/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Diode Standard 1000V 1A Through Hole DO-204AL (DO-41)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1N4007FSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIODE, 1000V, 1A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.onsemi.com/pub/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Diode Standard 1000V 1A Through Hole DO-204AL (DO-41)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1N4007FSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIODE, 1000V, 1A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.onsemi.com/pub/Collateral/1N4001-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Diode Standard 1000V 1A Through Hole DO-204AL (DO-41)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1N4007FSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(TO254P470X1016X2019-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/LM7805ACT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7812ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-LM7812ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-LM7805ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8062839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8062839"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(TO254P470X1016X2019-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/LM7805ACT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7812ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-LM7812ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-LM7805ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8062839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8062839"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(TO254P470X1016X2019-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/LM7805ACT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7812ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-LM7812ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-LM7805ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8062839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8062839"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.allegromicro.com/~/media/files/datasheets/acs712-datasheet.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC4(TO254P470X1016X2019-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/LM7805ACT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM7805ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-LM7805ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-LM7805ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8062839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8062839"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(OPTOISO, 30V, 60mA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/408/TLP701H_datasheet_en_20151223-1135480.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Logic Output Optoisolator  Push-Pull, Totem Pole 5000Vrms 1 Channel 20kV/µs CMTI 6-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba Semiconductor and Storage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLP701H(TP,F)"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(OPTOISO, 30V, 60mA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/408/TLP701H_datasheet_en_20151223-1135480.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Logic Output Optoisolator  Push-Pull, Totem Pole 5000Vrms 1 Channel 20kV/µs CMTI 6-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba Semiconductor and Storage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLP701H(TP,F)"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(OPTOISO, 30V, 60mA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/408/TLP701H_datasheet_en_20151223-1135480.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Logic Output Optoisolator  Push-Pull, Totem Pole 5000Vrms 1 Channel 20kV/µs CMTI 6-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba Semiconductor and Storage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLP701H(TP,F)"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(OPTOISO, 30V, 60mA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/408/TLP701H_datasheet_en_20151223-1135480.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Logic Output Optoisolator  Push-Pull, Totem Pole 5000Vrms 1 Channel 20kV/µs CMTI 6-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba Semiconductor and Storage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLP701H(TP,F)"; VariantName = "[No Variations]"
+Added Component: Designator=IC9(DIP1543W58P254L5175H635Q40N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70045352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/microchiptechnologyinc-dspic30f4011-30i-p/70045352/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/5/DSPIC30F4011-30I_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DSPIC30F4011-30I/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-30F4011-30I/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=579-30F4011-30I%2FP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6229954P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6229954P"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HEADER 2 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HEADER 8 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HEADER 2 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HEADER 2 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(MPLAB CONNECTOR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5555165&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Jack Modular Connector 6p6c (RJ11, RJ12, RJ14, RJ25) 90° Angle (Right) Unshielded Cat3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "A31422-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "5555165-1"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Res5, 140 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "140XBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MFR-25FBF52-140R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "140"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Res2, 1 KOhm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES1, 240 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "240 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "270QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES3, 47 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Res2, 1 KOhm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES3, 47 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES3, 47 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES3, 47 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "10 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "10KQTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=T1(THYRISTOR 400V, 8A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Detailed Description"; Value = "SCR 400V 8A Standard Recovery Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "497-4480-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TXN408GRG"; VariantName = "[No Variations]"
+Added Component: Designator=ZD1(ZENER DIODE, 12V, 200mA, 500mW)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/85604/bzx55.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Zener Diode 12V 500mW  Through Hole DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BZX55C12-TAPGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZX55C12-TAP"; VariantName = "[No Variations]"
+Added Component: Designator=ZD2(ZENER DIODE, 12V, 200mA, 500mW)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/85604/bzx55.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Zener Diode 12V 500mW  Through Hole DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BZX55C12-TAPGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZX55C12-TAP"; VariantName = "[No Variations]"
+Added Component: Designator=ZD3(ZENER DIODE, 12V, 200mA, 500mW)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/85604/bzx55.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Zener Diode 12V 500mW  Through Hole DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BZX55C12-TAPGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZX55C12-TAP"; VariantName = "[No Variations]"
+Added Component: Designator=ZD4(ZENER DIODE, 12V, 200mA, 500mW)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/85604/bzx55.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Zener Diode 12V 500mW  Through Hole DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BZX55C12-TAPGICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZX55C12-TAP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=20VAC Pin=BR1-1
+Added Pin To Net: NetName=GND Pin=BR1-2
+Added Pin To Net: NetName=GND Pin=BR1-3
+Added Pin To Net: NetName=NetBR1_4 Pin=BR1-4
+Added Pin To Net: NetName=NetBR2_1 Pin=BR2-1
+Added Pin To Net: NetName=NetBR2_2 Pin=BR2-2
+Added Pin To Net: NetName=MOT+ Pin=BR2-3
+Added Pin To Net: NetName=NetBR3_1 Pin=BR3-1
+Added Pin To Net: NetName=NetBR3_2 Pin=BR3-2
+Added Pin To Net: NetName=MOT- Pin=BR3-3
+Added Pin To Net: NetName=26_h2 Pin=BR3-4
+Added Pin To Net: NetName=NetBR4_1 Pin=BR4-1
+Added Pin To Net: NetName=NetBR4_2 Pin=BR4-2
+Added Pin To Net: NetName=GND Pin=BR4-3
+Added Pin To Net: NetName=26_l34 Pin=BR4-4
+Added Pin To Net: NetName=NetBR5_1 Pin=BR5-1
+Added Pin To Net: NetName=NetBR5_2 Pin=BR5-2
+Added Pin To Net: NetName=VSS Pin=BR5-3
+Added Pin To Net: NetName=26_vcc Pin=BR5-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=26V Pin=C1-2
+Added Pin To Net: NetName=MOT+ Pin=C2-1
+Added Pin To Net: NetName=26_h1 Pin=C2-2
+Added Pin To Net: NetName=MOT+ Pin=C3-1
+Added Pin To Net: NetName=12_h1 Pin=C3-2
+Added Pin To Net: NetName=MOT- Pin=C4-1
+Added Pin To Net: NetName=26_h2 Pin=C4-2
+Added Pin To Net: NetName=MOT- Pin=C5-1
+Added Pin To Net: NetName=12_h2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=26_l34 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=12_l34 Pin=C7-2
+Added Pin To Net: NetName=VSS Pin=C8-1
+Added Pin To Net: NetName=26_vcc Pin=C8-2
+Added Pin To Net: NetName=VSS Pin=C9-1
+Added Pin To Net: NetName=5_vcc Pin=C9-2
+Added Pin To Net: NetName=MOT+ Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=MOT- Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=MOT+ Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=MOT- Pin=C15-2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=26V Pin=CE1-1
+Added Pin To Net: NetName=GND Pin=CE1-2
+Added Pin To Net: NetName=26_h1 Pin=CE2-1
+Added Pin To Net: NetName=MOT+ Pin=CE2-2
+Added Pin To Net: NetName=12_h1 Pin=CE3-1
+Added Pin To Net: NetName=MOT+ Pin=CE3-2
+Added Pin To Net: NetName=26_h2 Pin=CE4-1
+Added Pin To Net: NetName=MOT- Pin=CE4-2
+Added Pin To Net: NetName=12_h2 Pin=CE5-1
+Added Pin To Net: NetName=MOT- Pin=CE5-2
+Added Pin To Net: NetName=26_l34 Pin=CE6-1
+Added Pin To Net: NetName=GND Pin=CE6-2
+Added Pin To Net: NetName=12_l34 Pin=CE7-1
+Added Pin To Net: NetName=GND Pin=CE7-2
+Added Pin To Net: NetName=26_vcc Pin=CE8-1
+Added Pin To Net: NetName=VSS Pin=CE8-2
+Added Pin To Net: NetName=5_vcc Pin=CE9-1
+Added Pin To Net: NetName=VSS Pin=CE9-2
+Added Pin To Net: NetName=NetC10_2 Pin=CE10-1
+Added Pin To Net: NetName=MOT+ Pin=CE10-2
+Added Pin To Net: NetName=NetC11_2 Pin=CE11-1
+Added Pin To Net: NetName=MOT- Pin=CE11-2
+Added Pin To Net: NetName=NetC12_2 Pin=CE12-1
+Added Pin To Net: NetName=GND Pin=CE12-2
+Added Pin To Net: NetName=NetC13_2 Pin=CE13-1
+Added Pin To Net: NetName=GND Pin=CE13-2
+Added Pin To Net: NetName=NetBR2_2 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=26V Pin=D1-2
+Added Pin To Net: NetName=26V Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetBR3_2 Pin=D2-1
+Added Pin To Net: NetName=26V Pin=D2-2
+Added Pin To Net: NetName=NetBR2_2 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetBR3_2 Pin=D4-2
+Added Pin To Net: NetName=26_h1 Pin=IC1-1
+Added Pin To Net: NetName=MOT+ Pin=IC1-2
+Added Pin To Net: NetName=12_h1 Pin=IC1-3
+Added Pin To Net: NetName=26_h2 Pin=IC2-1
+Added Pin To Net: NetName=MOT- Pin=IC2-2
+Added Pin To Net: NetName=12_h2 Pin=IC2-3
+Added Pin To Net: NetName=26_l34 Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=12_l34 Pin=IC3-3
+Added Pin To Net: NetName=26_vcc Pin=IC4-1
+Added Pin To Net: NetName=NetBR2_2 Pin=IC4-1
+Added Pin To Net: NetName=VSS Pin=IC4-2
+Added Pin To Net: NetName=5_vcc Pin=IC4-3
+Added Pin To Net: NetName=NetBR2_2 Pin=IC4-3
+Added Pin To Net: NetName=MOT+ Pin=IC5-4
+Added Pin To Net: NetName=NetIC5_5 Pin=IC5-5
+Added Pin To Net: NetName=5_vcc Pin=IC6-1
+Added Pin To Net: NetName=NetIC6_3 Pin=IC6-3
+Added Pin To Net: NetName=MOT- Pin=IC6-4
+Added Pin To Net: NetName=NetIC6_5 Pin=IC6-5
+Added Pin To Net: NetName=NetC11_2 Pin=IC6-6
+Added Pin To Net: NetName=NetIC7_3 Pin=IC7-3
+Added Pin To Net: NetName=GND Pin=IC7-4
+Added Pin To Net: NetName=NetIC7_5 Pin=IC7-5
+Added Pin To Net: NetName=NetC12_2 Pin=IC7-6
+Added Pin To Net: NetName=NetIC8_3 Pin=IC8-3
+Added Pin To Net: NetName=GND Pin=IC8-4
+Added Pin To Net: NetName=NetIC8_5 Pin=IC8-5
+Added Pin To Net: NetName=NetIC9_1 Pin=IC9-1
+Added Pin To Net: NetName=NetIC9_11 Pin=IC9-11
+Added Pin To Net: NetName=GNDE Pin=IC9-12
+Added Pin To Net: NetName=5_vcc Pin=IC9-21
+Added Pin To Net: NetName=NetIC9_25 Pin=IC9-25
+Added Pin To Net: NetName=NetIC9_26 Pin=IC9-26
+Added Pin To Net: NetName=GNDE Pin=IC9-31
+Added Pin To Net: NetName=5_vcc Pin=IC9-32
+Added Pin To Net: NetName=NetIC9_35 Pin=IC9-35
+Added Pin To Net: NetName=NetIC9_36 Pin=IC9-36
+Added Pin To Net: NetName=NetIC9_37 Pin=IC9-37
+Added Pin To Net: NetName=NetIC9_38 Pin=IC9-38
+Added Pin To Net: NetName=GNDE Pin=IC9-39
+Added Pin To Net: NetName=5_vcc Pin=IC9-40
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=20VAC Pin=P1-2
+Added Pin To Net: NetName=NetBR2_1 Pin=P2-1
+Added Pin To Net: NetName=NetBR2_2 Pin=P2-2
+Added Pin To Net: NetName=NetBR3_1 Pin=P2-3
+Added Pin To Net: NetName=NetBR3_2 Pin=P2-4
+Added Pin To Net: NetName=NetBR4_1 Pin=P2-5
+Added Pin To Net: NetName=NetBR4_2 Pin=P2-6
+Added Pin To Net: NetName=NetBR5_1 Pin=P2-7
+Added Pin To Net: NetName=NetBR5_2 Pin=P2-8
+Added Pin To Net: NetName=NetBR2_2 Pin=P3-1
+Added Pin To Net: NetName=NetBR3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetIC9_1 Pin=P5-1
+Added Pin To Net: NetName=NetIC9_11 Pin=P5-2
+Added Pin To Net: NetName=GNDE Pin=P5-3
+Added Pin To Net: NetName=NetIC9_25 Pin=P5-4
+Added Pin To Net: NetName=NetIC9_26 Pin=P5-5
+Added Pin To Net: NetName=NetP5_6 Pin=P5-6
+Added Pin To Net: NetName=NetBR2_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC14_1 Pin=Q1-2
+Added Pin To Net: NetName=26V Pin=Q1-3
+Added Pin To Net: NetName=NetBR3_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC15_1 Pin=Q2-2
+Added Pin To Net: NetName=26V Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetBR2_2 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetC17_1 Pin=Q4-2
+Added Pin To Net: NetName=NetBR3_2 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q5-3
+Added Pin To Net: NetName=GNDE Pin=Q6-1
+Added Pin To Net: NetName=NetIC9_38 Pin=Q6-2
+Added Pin To Net: NetName=GNDE Pin=Q7-1
+Added Pin To Net: NetName=NetIC9_37 Pin=Q7-2
+Added Pin To Net: NetName=NetIC6_3 Pin=Q7-3
+Added Pin To Net: NetName=GNDE Pin=Q8-1
+Added Pin To Net: NetName=NetIC9_36 Pin=Q8-2
+Added Pin To Net: NetName=NetIC7_3 Pin=Q8-3
+Added Pin To Net: NetName=GNDE Pin=Q9-1
+Added Pin To Net: NetName=NetIC9_35 Pin=Q9-2
+Added Pin To Net: NetName=NetIC8_3 Pin=Q9-3
+Added Pin To Net: NetName=26V Pin=R1-1
+Added Pin To Net: NetName=NetBR1_4 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=26V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetC14_1 Pin=R4-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-1
+Added Pin To Net: NetName=26V Pin=R4-2
+Added Pin To Net: NetName=NetIC5_5 Pin=R4-2
+Added Pin To Net: NetName=NetC15_1 Pin=R5-1
+Added Pin To Net: NetName=NetIC6_5 Pin=R5-2
+Added Pin To Net: NetName=NetC16_1 Pin=R6-1
+Added Pin To Net: NetName=NetIC7_5 Pin=R6-2
+Added Pin To Net: NetName=NetC17_1 Pin=R7-1
+Added Pin To Net: NetName=NetIC8_5 Pin=R7-2
+Added Pin To Net: NetName=NetIC9_11 Pin=R8-1
+Added Pin To Net: NetName=NetIC9_1 Pin=R8-2
+Added Pin To Net: NetName=26V Pin=T1-1
+Added Pin To Net: NetName=NetBR1_4 Pin=T1-2
+Added Pin To Net: NetName=NetT1_3 Pin=T1-3
+Added Pin To Net: NetName=12_h1 Pin=ZD1-1
+Added Pin To Net: NetName=NetC10_2 Pin=ZD1-2
+Added Pin To Net: NetName=12_h2 Pin=ZD2-1
+Added Pin To Net: NetName=NetC11_2 Pin=ZD2-2
+Added Pin To Net: NetName=12_l34 Pin=ZD3-1
+Added Pin To Net: NetName=NetC12_2 Pin=ZD3-2
+Added Pin To Net: NetName=12_l34 Pin=ZD4-1
+Added Pin To Net: NetName=NetC13_2 Pin=ZD4-2
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR2 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR3 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR4 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR5 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C2 1C20Z5U334M050B-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C3 BC1160TR-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C4 1C20Z5U334M050B-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C5 BC1160TR-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C6 1C20Z5U334M050B-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C7 BC1160TR-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C8 1C20Z5U334M050B-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component C9 BC1160TR-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE2 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE3 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE4 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE5 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE6 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE7 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE8 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE9 399-6575-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component IC1 512-LM7812ACT
+Added Member To Class: ClassName=Napajanje_2 Member=Component IC2 512-LM7812ACT
+Added Member To Class: ClassName=Napajanje_2 Member=Component IC3 512-LM7812ACT
+Added Member To Class: ClassName=Napajanje_2 Member=Component IC4 LM7805ACT
+Added Member To Class: ClassName=Napajanje_2 Member=Component P2 Header 8
+Added Room: Name=Napajanje_2

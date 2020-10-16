@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=OP_VDC-2
+Added Pin To Net: NetName=NetOP_VDC_2 Pin=OP_VDC-2
+Added Net: Name=NetOP_VDC_2
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

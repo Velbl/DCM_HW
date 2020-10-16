@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R4 Old Footprint=RES3, 47 Ohm, 0.25W New Footprint=RES3, 47R, 0.25W
+Change Component Footprint: Designator=R5 Old Footprint=RES3, 47 Ohm, 0.25W New Footprint=RES3, 47R, 0.25W
+Change Component Footprint: Designator=R6 Old Footprint=RES3, 47 Ohm, 0.25W New Footprint=RES3, 47R, 0.25W
+Change Component Footprint: Designator=R7 Old Footprint=RES3, 47 Ohm, 0.25W New Footprint=RES3, 47R, 0.25W
+Change Component Footprint: Designator=R9 Old Footprint=RES3, 47 Ohm, 0.25W New Footprint=RES3, 47R, 0.25W
+Change Component Footprint: Designator=R10 Old Footprint=RES3, 47 Ohm, 0.25W New Footprint=RES3, 47R, 0.25W
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

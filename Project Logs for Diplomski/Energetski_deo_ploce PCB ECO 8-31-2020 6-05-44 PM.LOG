@@ -1,0 +1,240 @@
+Removed Pin From Net: NetName=20VND Pin=BR_DSP-1
+Removed Pin From Net: NetName=VSS Pin=BR_DSP-2
+Removed Pin From Net: NetName=26VD Pin=BR_DSP-3
+Removed Pin From Net: NetName=20VN Pin=BR_NAP-1
+Removed Pin From Net: NetName=GND Pin=BR_NAP-2
+Removed Pin From Net: NetName=26V Pin=BR_NAP-3
+Removed Pin From Net: NetName=12VN Pin=BR_TIR-1
+Removed Pin From Net: NetName=TK Pin=BR_TIR-2
+Removed Pin From Net: NetName=20VN1 Pin=BR_TRAN1-1
+Removed Pin From Net: NetName=MOT+ Pin=BR_TRAN1-2
+Removed Pin From Net: NetName=26V1 Pin=BR_TRAN1-3
+Removed Pin From Net: NetName=20VN2 Pin=BR_TRAN2-1
+Removed Pin From Net: NetName=MOT- Pin=BR_TRAN2-2
+Removed Pin From Net: NetName=26V2 Pin=BR_TRAN2-3
+Removed Pin From Net: NetName=20VN3 Pin=BR_TRAN34-1
+Removed Pin From Net: NetName=GND Pin=BR_TRAN34-2
+Removed Pin From Net: NetName=26V_l34 Pin=BR_TRAN34-3
+Removed Pin From Net: NetName=NetIC9_38 Pin=Q6-1
+Removed Pin From Net: NetName=NetIC9_37 Pin=Q7-1
+Removed Pin From Net: NetName=NetIC9_36 Pin=Q8-1
+Removed Pin From Net: NetName=NetIC9_35 Pin=Q9-1
+Change Component Footprint: Designator=R15 Old Footprint=RES9, 180K, 0.25W - duplicate New Footprint=RES4, 10K, 0.25W - duplicate
+Change Component Comment : Designator=D0 Old Comment=1N4007FSCT-ND New Comment=UF4007TR-ND
+Change Component Comment : Designator=R10 Old Comment=47QBK-ND New Comment=470QTR-ND
+Change Component Comment : Designator=R23 Old Comment=270QBK-ND New Comment=2.4KQBK-ND
+Change Component Comment : Designator=R22 Old Comment=270QBK-ND New Comment=24KQBK-ND
+Change Component Comment : Designator=R15 Old Comment=CFR-25JB-52-180K New Comment=CFR-25JR-52-10K
+Change component parameters: Designator = "D0"; Footprint = "DIODE, 1000V, 1A"; UniqueID = "\HKOJWQIO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.onsemi.com/pub/Collateral/UF4007-D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description"; Value = "Diode Standard 1000V 1A Through Hole DO-204AL (DO-41)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "UF4007TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "UF4007"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RES3, 47R, 0.25W - duplicate"; UniqueID = "\JHUNFLXY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description"; Value = "470 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial Carbon Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "470QTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JR-52-470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "RES1, 240R, 0.25W"; UniqueID = "\VEJSERIB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description"; Value = "2.4 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial Carbon Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "2.4KQBK-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-2K4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "RES2, 2K4, 0.25W - duplicate"; UniqueID = "\HHXJEEEX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "24KQBK-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Number  CFR-25JB-52-24K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "RES4, 10K, 0.25W - duplicate"; UniqueID = "\HERVTPNO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cfr-25jr-52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-25JR-52-10K.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP6, 100pF, 50V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "100pF ±5% 50V Ceramic Capacitor C0G, NP0 Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "BC5223TB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay BC Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K101J10C0GF5UH5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES3, 47R, 0.25W - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES3, 47R, 0.25W - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES3, 47R, 0.25W - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES3, 47R, 0.25W - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES3, 47R, 0.25W - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES3, 47R, 0.25W - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "47 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "47QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=26VD Pin=BR_DSP-1
+Added Pin To Net: NetName=20VND Pin=BR_DSP-2
+Added Pin To Net: NetName=VSS Pin=BR_DSP-3
+Added Pin To Net: NetName=26V Pin=BR_NAP-1
+Added Pin To Net: NetName=20VN Pin=BR_NAP-2
+Added Pin To Net: NetName=GND Pin=BR_NAP-3
+Added Pin To Net: NetName=12VN Pin=BR_TIR-2
+Added Pin To Net: NetName=TK Pin=BR_TIR-3
+Added Pin To Net: NetName=26V1 Pin=BR_TRAN1-1
+Added Pin To Net: NetName=20VN1 Pin=BR_TRAN1-2
+Added Pin To Net: NetName=MOT+ Pin=BR_TRAN1-3
+Added Pin To Net: NetName=26V2 Pin=BR_TRAN2-1
+Added Pin To Net: NetName=20VN2 Pin=BR_TRAN2-2
+Added Pin To Net: NetName=MOT- Pin=BR_TRAN2-3
+Added Pin To Net: NetName=26V_l34 Pin=BR_TRAN34-1
+Added Pin To Net: NetName=20VN3 Pin=BR_TRAN34-2
+Added Pin To Net: NetName=GND Pin=BR_TRAN34-3
+Added Pin To Net: NetName=VSS Pin=C24-2
+Added Pin To Net: NetName=VSS Pin=C25-2
+Added Pin To Net: NetName=VSS Pin=C26-2
+Added Pin To Net: NetName=VSS Pin=C27-2
+Added Pin To Net: NetName=VSS Pin=C28-2
+Added Pin To Net: NetName=VSS Pin=C29-2
+Added Pin To Net: NetName=NetIC9_38 Pin=R24-2
+Added Pin To Net: NetName=NetIC9_36 Pin=R26-2
+Added Pin To Net: NetName=NetIC9_35 Pin=R27-2
+Added Pin To Net: NetName=NetBR_TIR_1 Pin=BR_TIR-1
+Added Pin To Net: NetName=NetBR_TIR_1 Pin=ZD6-1
+Added Net: Name=NetBR_TIR_1
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=Q6-1
+Added Pin To Net: NetName=NetC24_1 Pin=R24-1
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=Q7-1
+Added Pin To Net: NetName=NetC25_1 Pin=R25-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=Q8-1
+Added Pin To Net: NetName=NetC26_1 Pin=R26-1
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=Q9-1
+Added Pin To Net: NetName=NetC27_1 Pin=R27-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=Q10-1
+Added Pin To Net: NetName=NetC28_1 Pin=R28-1
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=Q11-1
+Added Pin To Net: NetName=NetC29_1 Pin=R29-1
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetIC9_4 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_4 Pin=IC12-14
+Added Pin To Net: NetName=NetIC9_4 Pin=R15-2
+Added Net: Name=NetIC9_4
+Added Pin To Net: NetName=NetIC9_5 Pin=IC9-5
+Added Pin To Net: NetName=NetIC9_5 Pin=IC12-7
+Added Pin To Net: NetName=NetIC9_5 Pin=R13-2
+Added Net: Name=NetIC9_5
+Added Pin To Net: NetName=NetIC9_33 Pin=IC9-33
+Added Pin To Net: NetName=NetIC9_33 Pin=R29-2
+Added Net: Name=NetIC9_33
+Added Pin To Net: NetName=NetIC9_34 Pin=IC9-34
+Added Pin To Net: NetName=NetIC9_34 Pin=R28-2
+Added Net: Name=NetIC9_34
+Added Member To Class: ClassName=Upravljacki deo Member=Component C24 BC5223TB-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component C25 BC5223TB-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component C26 BC5223TB-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component C27 BC5223TB-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component C28 BC5223TB-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component C29 BC5223TB-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R24 47QBK-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R25 47QBK-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R26 47QBK-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R27 47QBK-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R28 47QBK-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component R29 47QBK-ND
+Added Room: Name=Napajanje_1
+Added Room: Name=Upravljacki deo

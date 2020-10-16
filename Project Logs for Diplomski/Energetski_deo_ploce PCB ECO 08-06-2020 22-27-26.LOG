@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=C23 Old Footprint=CAPC1005X55N New Footprint=CAPC0603X33N
+Change Component Comment : Designator=C23 Old Comment=GRM155R61A102KA01D New Comment=GRM033R61A104ME15D
+Change component parameters: Designator = "C23"; Footprint = "CAPC0603X33N"; UniqueID = "\JPHMUKQQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM033R61A104ME15D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm033r61a104me15d/murata-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM033R61A104ME15D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM033R61A104ME5D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM033R61A104ME15D?qs=%2F%252BPMR94VuMbUSPQ6CCSQwQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM033R61A104ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm033r61a104me15d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM033R61A104ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM033R61A104ME5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM033R61A104ME15D?qs=%2F%252BPMR94VuMbUSPQ6CCSQwQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetACS712_7 Pin=C22-1
+Added Pin To Net: NetName=VSS Pin=C22-2
+Added Pin To Net: NetName=NetACS712_7 Pin=IC9-5
+Added Member To Class: ClassName=Energetski deo Member=Component C22 GRM033R61A104ME15D
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

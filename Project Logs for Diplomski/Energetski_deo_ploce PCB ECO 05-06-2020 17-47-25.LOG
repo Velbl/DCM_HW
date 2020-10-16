@@ -1,0 +1,37 @@
+Added Component: Designator=P1(HEADER 4 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282836&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "4 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "A136029-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3-282836-2"; VariantName = "[No Variations]"
+Added Component: Designator=P3(SHDR2W100P0X500_1X2_1000X820X1020P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "  Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = " 2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "A98076-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer "; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Added Component: Designator=P4(SHDR2W100P0X500_1X2_1000X820X1020P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "  Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = " 2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "A98076-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer "; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=20VAC Pin=P1-1
+Added Pin To Net: NetName=GND_AC_1 Pin=P1-2
+Added Pin To Net: NetName=12VAC Pin=P1-3
+Added Pin To Net: NetName=GND_AC_2 Pin=P1-4
+Added Pin To Net: NetName=NetD2_1 Pin=P3-1
+Added Pin To Net: NetName=NetD1_1 Pin=P3-2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Member To Class: ClassName=Napajanje_1 Member=Component P1 Header
+Added Member To Class: ClassName=Energetski deo Member=Component P3 Connector 2
+Added Member To Class: ClassName=Energetski deo Member=Component P4 Connector 2
+Added Member To Class: ClassName=Napajanje_2 Member=Component P4 Header 3
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

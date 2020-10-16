@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VSS Pin=OP_EMF-4
+Removed Pin From Net: NetName=VSS Pin=OP_VDC-4
+Added Pin To Net: NetName=VCC Pin=C9-2
+Added Pin To Net: NetName=VCC Pin=CE9-1
+Added Pin To Net: NetName=VCC Pin=IC4-1
+Added Pin To Net: NetName=NetOP_EMF_4 Pin=OP_EMF-4
+Added Pin To Net: NetName=NetOP_EMF_4 Pin=OP_VDC-4
+Added Net: Name=NetOP_EMF_4
+Added Pin To Net: NetName=NetOP_EMF_8 Pin=OP_EMF-8
+Added Pin To Net: NetName=NetOP_EMF_8 Pin=OP_VDC-8
+Added Net: Name=NetOP_EMF_8
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

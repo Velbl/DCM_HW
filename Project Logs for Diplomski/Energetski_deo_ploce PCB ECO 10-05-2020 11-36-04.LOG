@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VSS Pin=Q7-1
+Removed Pin From Net: NetName=NetIC9_37 Pin=Q7-2
+Removed Pin From Net: NetName=VSS Pin=Q8-1
+Removed Pin From Net: NetName=NetIC9_36 Pin=Q8-2
+Removed Pin From Net: NetName=VSS Pin=Q9-1
+Removed Pin From Net: NetName=NetIC9_35 Pin=Q9-2
+Removed Pin From Net: NetName=VSS Pin=Q11-1
+Removed Pin From Net: NetName=NetIC9_29 Pin=Q11-2
+Removed Member From Class: ClassName=Upravljacki deo Member=Q7
+Removed Member From Class: ClassName=Upravljacki deo Member=Q8
+Removed Member From Class: ClassName=Upravljacki deo Member=Q9
+Removed Member From Class: ClassName=Upravljacki deo Member=Q11
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

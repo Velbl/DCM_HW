@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=OPVDC NewDesignator=OP_VDC
+Change Net Name : Old Net Name=NetOPVDC_3 New Net Name=NetOP_VDC_3
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

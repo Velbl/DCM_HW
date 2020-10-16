@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=BR4-3
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=CE6-2
+Removed Pin From Net: NetName=GND Pin=CE7-2
+Removed Pin From Net: NetName=GND Pin=IC3-2
+Removed Pin From Net: NetName=GND Pin=OP_VDC-2
+Added Pin To Net: NetName=GND34 Pin=BR4-3
+Added Pin To Net: NetName=GND34 Pin=C6-1
+Added Pin To Net: NetName=GND34 Pin=C7-1
+Added Pin To Net: NetName=GND34 Pin=CE6-2
+Added Pin To Net: NetName=GND34 Pin=CE7-2
+Added Pin To Net: NetName=GND34 Pin=IC3-2
+Added Net: Name=GND34
+Added Pin To Net: NetName=NetOP_VDC_2 Pin=OP_VDC-2
+Added Net: Name=NetOP_VDC_2
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

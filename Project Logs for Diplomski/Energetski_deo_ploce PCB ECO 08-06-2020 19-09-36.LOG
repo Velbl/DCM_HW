@@ -1,0 +1,15 @@
+Added Component: Designator=BR1(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=26V Pin=BR1-1
+Added Pin To Net: NetName=20VAC Pin=BR1-2
+Added Pin To Net: NetName=GND Pin=BR1-3
+Added Pin To Net: NetName=GND_AC_1 Pin=BR1-4
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR1 W04G-E4/51GI-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

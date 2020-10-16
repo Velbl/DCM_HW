@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R11 Old Footprint=RES3, 47 Ohm, 0.25W New Footprint=RES6, 3K3, 0.25W
+Change Component Footprint: Designator=R0 Old Footprint=Res5, 140 Ohm, 0.25W New Footprint=RES5, 140R, 0.25W
+Change component parameters: Designator = "R0"; Footprint = "RES5, 140R, 0.25W"; UniqueID = "\IQOMVGUI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description"; Value = "1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "140XBK-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MFR-25FBF52-140R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "140R"; VariantName = "[No Variations]"
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

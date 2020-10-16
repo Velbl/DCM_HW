@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetC14_1 Pin=Q1-2
+Removed Pin From Net: NetName=NetC1_2 Pin=Q1-3
+Removed Pin From Net: NetName=NetD2_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetC15_1 Pin=Q2-2
+Removed Pin From Net: NetName=NetC1_2 Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=NetC16_1 Pin=Q3-2
+Removed Pin From Net: NetName=NetD1_1 Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=NetC17_1 Pin=Q4-2
+Removed Pin From Net: NetName=NetD2_1 Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=NetC19_1 Pin=Q5-2
+Removed Pin From Net: NetName=NetD0_1 Pin=Q5-3
+Added Component: Designator=Q1(MOSFET, 400V, 5,4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(MOSFET, 400V, 5,4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(MOSFET, 400V, 5,4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(MOSFET, 400V, 5,4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(MOSFET, 400V, 5,4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Res2, 1 KOhm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "1.0KQBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES1, 240 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "240 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "270QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC14_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC15_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetC16_1 Pin=Q3-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetC17_1 Pin=Q4-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=NetC19_1 Pin=Q5-2
+Added Pin To Net: NetName=NetD0_1 Pin=Q5-3
+Added Pin To Net: NetName=NetIC9_4 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetIC9_4 Pin=R2-2
+Added Member To Class: ClassName=Napajanje_1 Member=Component Q5 STP7NK40Z
+Added Member To Class: ClassName=Napajanje_1 Member=Component R1 1.0KQBK-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component R2 270QBK-ND
+Added Room: Name=Napajanje_1

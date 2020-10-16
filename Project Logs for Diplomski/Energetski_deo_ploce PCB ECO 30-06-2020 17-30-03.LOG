@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=IC4 Old Footprint=LM7805, 1A New Footprint=LM7805ACT, 1A
+Change Component Footprint: Designator=IC1 Old Footprint=TO254P470X1016X2019-3P New Footprint=LM7812ACT, 1A
+Change Component Footprint: Designator=IC2 Old Footprint=TO254P470X1016X2019-3P New Footprint=LM7812ACT, 1A
+Change Component Footprint: Designator=IC3 Old Footprint=TO254P470X1016X2019-3P New Footprint=LM7812ACT, 1A
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

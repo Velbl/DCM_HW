@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=20VAC_h2 Pin=P2-3
+Removed Pin From Net: NetName=GND_AC_h2 Pin=P2-4
+Removed Pin From Net: NetName=20VAC_l34 Pin=P2-5
+Removed Pin From Net: NetName=GND_AC_l34 Pin=P2-6
+Removed Pin From Net: NetName=20VAC_vcc Pin=P2-7
+Removed Pin From Net: NetName=GND_AC_vss Pin=P2-8
+Added Pin To Net: NetName=GND_AC_vss Pin=P2-2
+Added Pin To Net: NetName=GND_AC_l34 Pin=P2-3
+Added Pin To Net: NetName=20VAC_h2 Pin=P2-4
+Added Pin To Net: NetName=GND_AC_h2 Pin=P2-5
+Added Pin To Net: NetName=20VAC_l34 Pin=P2-6
+Added Pin To Net: NetName=20VAC_vcc Pin=P2-8
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

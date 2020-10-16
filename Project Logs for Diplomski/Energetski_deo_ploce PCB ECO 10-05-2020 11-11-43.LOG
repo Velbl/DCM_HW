@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GNDE Pin=IC9-20
+Removed Pin From Net: NetName=GNDE Pin=IC9-31
+Removed Pin From Net: NetName=GNDE Pin=IC9-39
+Removed Pin From Net: NetName=NetC7_2 Pin=ZD4-1
+Removed Pin From Net: NetName=NetC13_2 Pin=ZD4-2
+Added Pin To Net: NetName=VSS Pin=IC9-20
+Added Pin To Net: NetName=VSS Pin=IC9-31
+Added Pin To Net: NetName=VSS Pin=IC9-39
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR5 W04G-E4/51GI-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

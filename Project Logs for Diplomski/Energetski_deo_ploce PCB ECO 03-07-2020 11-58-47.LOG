@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetIC9_7 Pin=IC9-7
+Removed Pin From Net: NetName=NetIC9_7 Pin=IC13-1
+Change Net Name : Old Net Name=NetIC9_7 New Net Name=NetIC13_3
+Added Pin To Net: NetName=NetIC9_7 Pin=IC9-7
+Added Pin To Net: NetName=NetIC9_7 Pin=IC13-1
+Added Net: Name=NetIC9_7
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

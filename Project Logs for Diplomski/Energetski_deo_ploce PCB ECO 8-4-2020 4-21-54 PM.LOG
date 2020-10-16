@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetIC12_7 Pin=IC12-7
+Added Pin To Net: NetName=NetIC12_7 Pin=R13-2
+Added Net: Name=NetIC12_7
+Added Pin To Net: NetName=NetIC12_14 Pin=IC12-14
+Added Pin To Net: NetName=NetIC12_14 Pin=R15-2
+Added Net: Name=NetIC12_14
+Added Room: Name=Napajanje_1
+Added Room: Name=Upravljacki deo

@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=VSS Pin=Q6-1
+Removed Pin From Net: NetName=NetIC9_38 Pin=Q6-2
+Removed Pin From Net: NetName=NetIC5_3 Pin=Q6-3
+Added Component: Designator=Q6(MOSFET, 400V, 5,4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC9_1 Pin=IC9-1
+Added Pin To Net: NetName=NetIC9_4 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_11 Pin=IC9-11
+Added Pin To Net: NetName=NetIC9_12 Pin=IC9-12
+Added Pin To Net: NetName=VSS Pin=IC9-20
+Added Pin To Net: NetName=NetC9_2 Pin=IC9-21
+Added Pin To Net: NetName=NetIC9_25 Pin=IC9-25
+Added Pin To Net: NetName=NetIC9_26 Pin=IC9-26
+Added Pin To Net: NetName=NetIC9_29 Pin=IC9-29
+Added Pin To Net: NetName=NetIC9_30 Pin=IC9-30
+Added Pin To Net: NetName=VSS Pin=IC9-31
+Added Pin To Net: NetName=NetC9_2 Pin=IC9-32
+Added Pin To Net: NetName=NetIC9_35 Pin=IC9-35
+Added Pin To Net: NetName=NetIC9_36 Pin=IC9-36
+Added Pin To Net: NetName=NetIC9_37 Pin=IC9-37
+Added Pin To Net: NetName=NetIC9_38 Pin=IC9-38
+Added Pin To Net: NetName=VSS Pin=IC9-39
+Added Pin To Net: NetName=NetC9_2 Pin=IC9-40
+Added Pin To Net: NetName=NetIC9_1 Pin=P5-1
+Added Pin To Net: NetName=NetIC9_11 Pin=P5-2
+Added Pin To Net: NetName=NetIC9_12 Pin=P5-3
+Added Pin To Net: NetName=NetIC9_25 Pin=P5-4
+Added Pin To Net: NetName=NetIC9_26 Pin=P5-5
+Added Pin To Net: NetName=VSS Pin=Q6-1
+Added Pin To Net: NetName=NetIC9_38 Pin=Q6-2
+Added Pin To Net: NetName=NetIC5_3 Pin=Q6-3
+Added Pin To Net: NetName=NetIC9_11 Pin=R8-1
+Added Pin To Net: NetName=NetIC9_1 Pin=R8-2
+Added Member To Class: ClassName=Napajanje_2 Member=Component CE2 399-6575-ND
+Added Member To Class: ClassName=Energetski deo Member=Component D1 1N4007FSCT-ND
+Added Member To Class: ClassName=Upravljacki deo Member=Component IC9 DSPIC30F4011-30I/P
+Added Member To Class: ClassName=Upravljacki deo Member=Component P5 MPLAB connector
+Added Member To Class: ClassName=Upravljacki deo Member=Component Q6 STP7NK40Z
+Added Member To Class: ClassName=Upravljacki deo Member=Component R8 10KQTR-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

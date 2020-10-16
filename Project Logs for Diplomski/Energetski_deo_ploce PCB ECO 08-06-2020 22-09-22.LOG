@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetACS712_7 Pin=ACS712-8
+Added Pin To Net: NetName=NetACS712_7 Pin=C22-1
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

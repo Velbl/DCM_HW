@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetACS712_7 Pin=IC9-5
+Added Pin To Net: NetName=NetACS712_7 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_6 Pin=IC9-6
+Added Pin To Net: NetName=NetIC9_6 Pin=OP_VDC-1
+Added Net: Name=NetIC9_6
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

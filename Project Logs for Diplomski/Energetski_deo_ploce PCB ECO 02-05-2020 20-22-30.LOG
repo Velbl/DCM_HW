@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=20VAC Pin=BR1-1
+Removed Pin From Net: NetName=GND Pin=BR1-2
+Added Component: Designator=BR?(WOG_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/88528/2w005g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2W01G-E4/51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "625-2W01G-E4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=625-2W01G-E4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BR1-1
+Added Pin To Net: NetName=20VAC Pin=BR1-2
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR? 2W01G-E4_51

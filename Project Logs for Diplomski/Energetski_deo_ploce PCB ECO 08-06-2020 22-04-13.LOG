@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetACS712_3 Pin=ACS712-3
+Removed Pin From Net: NetName=NetACS712_3 Pin=ACS712-4
+Removed Pin From Net: NetName=NetACS712_3 Pin=P6-1
+Change Net Name : Old Net Name=NetACS712_3 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetACS712_3 Pin=ACS712-3
+Added Pin To Net: NetName=NetACS712_3 Pin=ACS712-4
+Added Pin To Net: NetName=NetACS712_3 Pin=P6-1
+Added Net: Name=NetACS712_3

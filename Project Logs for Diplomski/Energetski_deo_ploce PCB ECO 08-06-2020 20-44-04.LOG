@@ -1,0 +1,12 @@
+Added Component: Designator=P6(HEADER 2 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "A98076-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Energetski deo Member=Component P6 Connector 2
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

@@ -1,0 +1,61 @@
+Added Component: Designator=BR2(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR3(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR4(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR5(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR6(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=20VAC_h1 Pin=BR2-1
+Added Pin To Net: NetName=26V_h1 Pin=BR2-2
+Added Pin To Net: NetName=MOT+ Pin=BR2-3
+Added Pin To Net: NetName=GND_AC_h1 Pin=BR2-4
+Added Pin To Net: NetName=20VAC_h2 Pin=BR3-1
+Added Pin To Net: NetName=26V_h2 Pin=BR3-2
+Added Pin To Net: NetName=MOT- Pin=BR3-3
+Added Pin To Net: NetName=GND_AC_h2 Pin=BR3-4
+Added Pin To Net: NetName=20VAC_l34 Pin=BR4-1
+Added Pin To Net: NetName=26V_l34 Pin=BR4-2
+Added Pin To Net: NetName=GND Pin=BR4-3
+Added Pin To Net: NetName=GND_AC_l34 Pin=BR4-4
+Added Pin To Net: NetName=20VAC_vcc Pin=BR5-1
+Added Pin To Net: NetName=26V_vcc Pin=BR5-2
+Added Pin To Net: NetName=VSS Pin=BR5-3
+Added Pin To Net: NetName=GND_AC_vss Pin=BR5-4
+Added Pin To Net: NetName=GND_AC_2 Pin=BR6-2
+Added Pin To Net: NetName=REF Pin=BR6-3
+Added Pin To Net: NetName=12VAC Pin=BR6-4
+Added Pin To Net: NetName=NetBR6_1 Pin=BR6-1
+Added Pin To Net: NetName=NetBR6_1 Pin=ZD6-1
+Added Net: Name=NetBR6_1
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR2 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR3 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR4 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_2 Member=Component BR5 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR6 W04G-E4/51GI-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

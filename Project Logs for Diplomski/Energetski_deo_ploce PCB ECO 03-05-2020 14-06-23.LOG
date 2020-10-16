@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=R0-1
+Removed Pin From Net: NetName=26V Pin=R0-2
+Added Component: Designator=R0(Res5, 140 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "140XBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MFR-25FBF52-140R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "140"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=R0-1
+Added Pin To Net: NetName=26V Pin=R0-2
+Added Pin To Net: NetName=NetIC9_4 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_4 Pin=R1-1
+Added Pin To Net: NetName=NetIC9_4 Pin=R2-2
+Added Net: Name=NetIC9_4
+Added Room: Name=Napajanje_1

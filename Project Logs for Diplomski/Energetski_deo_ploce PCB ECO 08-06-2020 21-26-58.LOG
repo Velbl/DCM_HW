@@ -1,0 +1,56 @@
+Added Component: Designator=ACS712(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "R1076681"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/allegro-microsystems-acs712elctr-05b-t/R1076681/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/0d88/0900766b80d885f5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Allegro Microsystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ACS712ELCTR-05B-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6807131P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6807131P"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM033R61A104ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm033r61a104me15d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM033R61A104ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM033R61A104ME5D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM033R61A104ME15D?qs=%2F%252BPMR94VuMbUSPQ6CCSQwQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAPC1005X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM155R61A102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm155r61a102ka01d/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM155R61A102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM155R61A102KA1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM155R61A102KA1D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=ACS712-1
+Added Pin To Net: NetName=NetD2_1 Pin=ACS712-2
+Added Pin To Net: NetName=NetD2_1 Pin=ACS712-3
+Added Pin To Net: NetName=NetD2_1 Pin=ACS712-4
+Added Pin To Net: NetName=VSS Pin=ACS712-5
+Added Pin To Net: NetName=NetC9_2 Pin=ACS712-7
+Added Pin To Net: NetName=VSS Pin=C22-2
+Added Pin To Net: NetName=NetD2_1 Pin=P6-1
+Added Pin To Net: NetName=NetD2_1 Pin=P6-2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetACS712_7
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetACS712_1
+Added Pin To Net: NetName=NetACS712_6 Pin=ACS712-6
+Added Pin To Net: NetName=NetACS712_6 Pin=C23-1
+Added Net: Name=NetACS712_6
+Added Pin To Net: NetName=VCC Pin=ACS712-8
+Added Pin To Net: NetName=VCC Pin=C22-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Energetski deo Member=Component ACS712 Current sensor
+Added Member To Class: ClassName=Energetski deo Member=Component C22 GRM033R61A104ME15D
+Added Member To Class: ClassName=Energetski deo Member=Component C23 GRM155R61A102KA01D
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

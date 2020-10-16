@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=R2 Old Footprint=RES1, 240 Ohm, 0.25W New Footprint=RES1, 240R, 0.25W
+Change Component Footprint: Designator=R12 Old Footprint=RES4, 10KOhm, 0.25W New Footprint=RESAD1590W60L630D240
+Change Component Comment : Designator=R12 Old Comment=10KQTR-ND New Comment=CFR-25JR-52-10K
+Change component parameters: Designator = "R12"; Footprint = "RESAD1590W60L630D240"; UniqueID = "\EGOHBECI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cfr-25jr-52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-25JR-52-10K.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD1590W60L630D240)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cfr-25jr-52-10k/yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-25JR-52-10K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Napajanje_1 Member=Component R? CFR-25JR-52-10K
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

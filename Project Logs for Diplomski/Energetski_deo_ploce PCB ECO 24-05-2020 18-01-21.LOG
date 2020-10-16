@@ -1,0 +1,19 @@
+Added Component: Designator=P1(HDR1X4H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X4H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=20VAC Pin=P1-1
+Added Pin To Net: NetName=GND_AC_1 Pin=P1-2
+Added Pin To Net: NetName=12VAC Pin=P1-3
+Added Pin To Net: NetName=GND_AC_2 Pin=P1-4
+Added Member To Class: ClassName=Napajanje_1 Member=Component P1 Header 4H
+Added Member To Class: ClassName=Napajanje_1 Member=Component P? Header 4H
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

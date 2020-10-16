@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=VSS Pin=OP_EMF-4
+Added Pin To Net: NetName=VCC Pin=OP_EMF-8
+Added Pin To Net: NetName=VSS Pin=OP_VDC-4
+Added Pin To Net: NetName=VCC Pin=OP_VDC-8
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=NetIC9_7 Pin=OP_EMF-1
+Removed Pin From Net: NetName=NetIC9_7 Pin=OP_EMF-3
+Removed Pin From Net: NetName=VSS Pin=OP_EMF-4
+Removed Pin From Net: NetName=VCC Pin=OP_EMF-8
+Removed Pin From Net: NetName=NetIC9_4 Pin=OP_V_HALL-1
+Removed Pin From Net: NetName=NetACS712_7 Pin=OP_V_HALL-3
+Removed Pin From Net: NetName=VSS Pin=OP_V_HALL-4
+Removed Pin From Net: NetName=VCC Pin=OP_V_HALL-8
+Removed Pin From Net: NetName=NetIC9_6 Pin=OP_VDC-1
+Removed Pin From Net: NetName=GND Pin=OP_VDC-2
+Removed Pin From Net: NetName=VSS Pin=OP_VDC-4
+Removed Pin From Net: NetName=VCC Pin=OP_VDC-8
+Removed Member From Class: ClassName=Energetski deo Member=OP_EMF
+Removed Member From Class: ClassName=Energetski deo Member=OP_V_HALL
+Removed Member From Class: ClassName=Napajanje_1 Member=OP_VDC
+Added Component: Designator=IC12(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm358baidr/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/LM358BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM358BAIDR?qs=Cb2nCFKsA8q09dK1DPRIKg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC13(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm358baidr/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/LM358BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM358BAIDR?qs=Cb2nCFKsA8q09dK1DPRIKg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC14(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm358baidr/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/LM358BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LM358BAIDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM358BAIDR?qs=Cb2nCFKsA8q09dK1DPRIKg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC9_4 Pin=IC12-1
+Added Pin To Net: NetName=VSS Pin=IC12-2
+Added Pin To Net: NetName=NetACS712_7 Pin=IC12-3
+Added Pin To Net: NetName=VSS Pin=IC12-4
+Added Pin To Net: NetName=VCC Pin=IC12-8
+Added Pin To Net: NetName=NetIC9_7 Pin=IC13-1
+Added Pin To Net: NetName=NetIC9_7 Pin=IC13-3
+Added Pin To Net: NetName=VSS Pin=IC13-4
+Added Pin To Net: NetName=VCC Pin=IC13-8
+Added Pin To Net: NetName=NetIC9_6 Pin=IC14-1
+Added Pin To Net: NetName=GND Pin=IC14-2
+Added Pin To Net: NetName=VSS Pin=IC14-4
+Added Pin To Net: NetName=VCC Pin=IC14-8
+Added Pin To Net: NetName=NetIC13_2 Pin=IC13-2
+Added Pin To Net: NetName=NetIC13_2 Pin=P4-2
+Added Pin To Net: NetName=NetIC13_2 Pin=R23-1
+Added Net: Name=NetIC13_2
+Added Pin To Net: NetName=NetIC14_3 Pin=IC14-3
+Added Pin To Net: NetName=NetIC14_3 Pin=R1-1
+Added Pin To Net: NetName=NetIC14_3 Pin=R2-2
+Added Net: Name=NetIC14_3
+Added Member To Class: ClassName=Energetski deo Member=Component IC12 LEM
+Added Member To Class: ClassName=Energetski deo Member=Component IC13 EMF
+Added Member To Class: ClassName=Napajanje_1 Member=Component IC14 VDC
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

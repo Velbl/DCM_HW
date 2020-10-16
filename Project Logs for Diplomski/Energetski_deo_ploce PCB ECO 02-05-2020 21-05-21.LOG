@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=26V Pin=BR1-1
+Removed Pin From Net: NetName=26V Pin=C21-1
+Removed Pin From Net: NetName=26V Pin=R0-2
+Removed Pin From Net: NetName=26V Pin=R11-1
+Removed Pin From Net: NetName=26V Pin=T1-2
+Removed Pin From Net: NetName=26V Pin=ZD7-1
+Change Net Name : Old Net Name=26V New Net Name=GND
+Added Pin To Net: NetName=26V Pin=BR1-1
+Added Pin To Net: NetName=26V Pin=C21-1
+Added Pin To Net: NetName=26V Pin=R0-2
+Added Pin To Net: NetName=26V Pin=R11-1
+Added Pin To Net: NetName=26V Pin=T1-2
+Added Pin To Net: NetName=26V Pin=ZD7-1
+Added Net: Name=26V

@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=NetACS712_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetC14_1 Pin=Q1-2
+Removed Pin From Net: NetName=REF Pin=Q1-3
+Removed Pin From Net: NetName=NetD2_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetC15_1 Pin=Q2-2
+Removed Pin From Net: NetName=REF Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=NetC16_1 Pin=Q3-2
+Removed Pin From Net: NetName=NetACS712_1 Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=NetC17_1 Pin=Q4-2
+Removed Pin From Net: NetName=NetD2_1 Pin=Q4-3
+Removed Pin From Net: NetName=VSS Pin=Q6-1
+Removed Pin From Net: NetName=NetIC9_38 Pin=Q6-2
+Removed Pin From Net: NetName=NetIC5_3 Pin=Q6-3
+Removed Pin From Net: NetName=VSS Pin=Q7-1
+Removed Pin From Net: NetName=NetIC9_37 Pin=Q7-2
+Removed Pin From Net: NetName=NetIC6_3 Pin=Q7-3
+Removed Pin From Net: NetName=VSS Pin=Q8-1
+Removed Pin From Net: NetName=NetIC9_36 Pin=Q8-2
+Removed Pin From Net: NetName=NetIC7_3 Pin=Q8-3
+Removed Pin From Net: NetName=VSS Pin=Q9-1
+Removed Pin From Net: NetName=NetIC9_35 Pin=Q9-2
+Removed Pin From Net: NetName=NetIC8_3 Pin=Q9-3
+Removed Pin From Net: NetName=VSS Pin=Q10-1
+Removed Pin From Net: NetName=NetIC9_30 Pin=Q10-2
+Removed Pin From Net: NetName=NetIC10_3 Pin=Q10-3
+Removed Pin From Net: NetName=VSS Pin=Q11-1
+Removed Pin From Net: NetName=NetIC9_29 Pin=Q11-2
+Removed Pin From Net: NetName=NetIC11_3 Pin=Q11-3
+Change Component Footprint: Designator=Q1 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q2 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q3 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q4 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q6 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q7 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q8 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q9 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q10 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Footprint: Designator=Q11 Old Footprint=MOSFET, 400V, 5,4A New Footprint=MOSFET 400V, 5.4A
+Change Component Comment : Designator=Q1 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q2 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q3 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q4 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q6 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q7 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q8 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q9 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q10 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change Component Comment : Designator=Q11 Old Comment=STP7NK40Z New Comment=STP7NK40ZFP
+Change component parameters: Designator = "Q1"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\TAFWPJTQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\NYHMVNCF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\MPHBIOJM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\OGCPHUKL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\SSCIJUNS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\YGUFGBJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\BOKCWTTQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q9"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\TYAUHNRJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\VVYMOYUD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q11"; Footprint = "MOSFET 400V, 5.4A"; UniqueID = "\JYYTJUBO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70547873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-stp7nk40zfp/70547873/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/web/en/resource/technical/document/datasheet/CD00003040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STP7NK40ZFP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "8107418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/8107418"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_1 Pin=Q1-1
+Added Pin To Net: NetName=REF Pin=Q1-2
+Added Pin To Net: NetName=NetACS712_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC15_1 Pin=Q2-1
+Added Pin To Net: NetName=REF Pin=Q2-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC16_1 Pin=Q3-1
+Added Pin To Net: NetName=NetACS712_1 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetC17_1 Pin=Q4-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetIC9_38 Pin=Q6-1
+Added Pin To Net: NetName=NetIC5_3 Pin=Q6-2
+Added Pin To Net: NetName=VSS Pin=Q6-3
+Added Pin To Net: NetName=NetIC9_37 Pin=Q7-1
+Added Pin To Net: NetName=NetIC6_3 Pin=Q7-2
+Added Pin To Net: NetName=VSS Pin=Q7-3
+Added Pin To Net: NetName=NetIC9_36 Pin=Q8-1
+Added Pin To Net: NetName=NetIC7_3 Pin=Q8-2
+Added Pin To Net: NetName=VSS Pin=Q8-3
+Added Pin To Net: NetName=NetIC9_35 Pin=Q9-1
+Added Pin To Net: NetName=NetIC8_3 Pin=Q9-2
+Added Pin To Net: NetName=VSS Pin=Q9-3
+Added Pin To Net: NetName=NetIC9_30 Pin=Q10-1
+Added Pin To Net: NetName=NetIC10_3 Pin=Q10-2
+Added Pin To Net: NetName=VSS Pin=Q10-3
+Added Pin To Net: NetName=NetIC9_29 Pin=Q11-1
+Added Pin To Net: NetName=NetIC11_3 Pin=Q11-2
+Added Pin To Net: NetName=VSS Pin=Q11-3
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

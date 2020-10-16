@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VSS Pin=Q6-1
+Added Pin To Net: NetName=VSS Pin=Q7-1
+Added Pin To Net: NetName=VSS Pin=Q8-1
+Added Pin To Net: NetName=VSS Pin=Q9-1
+Added Pin To Net: NetName=VSS Pin=Q10-1
+Added Pin To Net: NetName=VSS Pin=Q11-1
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

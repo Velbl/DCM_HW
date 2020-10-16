@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Added Member To Class: ClassName=Upravljacki deo Member=Component P5 MPLAB connector
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

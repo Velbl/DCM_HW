@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=RES7, 47KOhm, 0.25W
+Change Component Comment : Designator=R8 Old Comment=10KQTR-ND New Comment=47KQTR-ND
+Change component parameters: Designator = "R8"; Footprint = "RES7, 47KOhm, 0.25W"; UniqueID = "\VHELFSFC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description"; Value = "47 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "47KQTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JR-52-47K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=IC9-11
+Added Pin To Net: NetName=VSS Pin=IC9-12
+Added Pin To Net: NetName=VSS Pin=IC9-39
+Added Pin To Net: NetName=VCC Pin=IC9-40
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

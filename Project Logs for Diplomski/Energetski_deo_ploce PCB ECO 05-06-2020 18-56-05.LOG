@@ -1,0 +1,32 @@
+Change Component Description : Designator=P3 Old Description=Connector, 2 pin New Description=Connector, 2 pin 
+Change Component Description : Designator=P4 Old Description=Connector, 2 pin New Description=Connector, 2 pin 
+Change component parameters: Designator = "P3"; Footprint = "HEADER 2 PIN"; UniqueID = "\NKNWFFND"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "  Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description "; Value = " 2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "A98076-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer "; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4"; Footprint = "HEADER 2 PIN"; UniqueID = "\QPYTIXMU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "  Datasheet link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308389_EUROSTYLE_TERMINAL_BLOCKS&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Detailed Description "; Value = " 2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "A98076-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer "; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "282836-2"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES1, 240 Ohm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "240 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "270QBK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "240R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP4_2 Pin=R23-1
+Added Pin To Net: NetName=NetIC9_6 Pin=R23-2
+Added Member To Class: ClassName=Energetski deo Member=Component P4 Connector 2
+Added Member To Class: ClassName=Energetski deo Member=Component R23 270QBK-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

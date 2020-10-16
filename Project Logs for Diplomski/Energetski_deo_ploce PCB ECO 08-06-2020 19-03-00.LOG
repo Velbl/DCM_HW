@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=20VAC Pin=BR1-1
+Removed Pin From Net: NetName=26V Pin=BR1-2
+Added Pin To Net: NetName=26V Pin=BR1-1
+Added Pin To Net: NetName=20VAC Pin=BR1-2
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

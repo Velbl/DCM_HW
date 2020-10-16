@@ -1,0 +1,37 @@
+Bill of Material for 
+On 04/06/2020 at 12:19:03
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1.0KQBK-ND          Res2, 1 KOhm, 0.25W    3    R1, R3, R22                  1 KOhm, 0.25W        
+ 10KQTR-ND           AXIAL-0.3        1    R8                           10 KOhm, 0.25W       
+ 140XBK-ND           Res5, 140 Ohm, 0.25W    1    R0                           140 Ohm, 0.25W       
+ 1C20Z5U334M050B-ND  CAP3, 0.33uF, 50V    5    C1, C2, C4, C6, C8           CER 0.33uF, 50V      
+ 1N4007FSCT-ND       DIODE, 1000V, 1A    5    D0, D1, D2, D3, D4           1000V, 1A            
+ 270QBK-ND           RES1, 240 Ohm, 0.25W    2    R2, R23                      240 Ohm, 0.25W       
+ 399-6104-ND         CAP2 100uF, 35V - duplicate    1    CE1                          ALU 100uF, 35V       
+ 399-6575-ND         CAP1 33uF, 35V    8    CE2, CE3, CE4, CE5, CE6, CE7 ALU 33uF, 35V        
+                                           CE8, CE9
+ 47QBK-ND            RES3, 47 Ohm, 0.25W    6    R4, R5, R6, R7, R9, R10      47 Ohm, 0.25W        
+ 497-4480-5-ND       THYRISTOR 400V, 8A    1    T1                           SCR, 400V, 8A        
+ 512-LM7812ACT       TO254P470X1016X2019-3P    3    IC1, IC2, IC3                LM7812ACT, 1A        
+ BC1160TR-ND         CAP4, 0.1uF, 50V   11    C3, C5, C7, C9, C10, C11, C12 CER 0.1uF, 50V       
+                                           C13, C18, C20, C21
+ BC5223TB-ND         CAP6, 100pF, 50V    5    C14, C15, C16, C17, C19      CER, 100pF, 50V      
+ BZX55C12-TAPGICT-ND ZENER DIODE, 12V, 200mA, 500mW    7    ZD1, ZD2, ZD3, ZD4, ZD5, ZD6 12V, 200mA, 500mW    
+                                           ZD7
+ CFR-25JR-52-3K3     RES3, 47 Ohm, 0.25W    1    R11                          3K3 Ohm, 0.25W       
+ DSPIC30F4011-30I/P  DIP1543W58P254L5175H635Q40N    1    IC9                          DSPIC30F4011-30I/P   
+ Header 2            HEADER 2 PIN     2    P3, P6                       Header, 2-Pin        
+ Header 3            SHDR3W87P0X254_1X3_812X254X850P    1    P4                           Header, 3-Pin, Female 
+ Header 4H           HDR1X4H          1    P1                           Header, 4-Pin, Right Angle 
+ Header 8            HEADER 8 PIN     1    P2                           Header, 8-Pin        
+ LM7805ACT           TO254P470X1016X2019-3P    1    IC4                          LM7805ACT, 1A        
+ MPLAB connector     MPLAB CONNECTOR    1    P5                           MPLAB connector      
+ STP7NK40Z           MOSFET, 400V, 5,4A   11    Q1, Q2, Q3, Q4, Q5, Q6, Q7   N-Channel 400V, 5.4A,  70W, Through Hole 
+                                           Q8, Q9, Q10, Q11
+ TE1157-E3-ND        CAP8, 20uF, 16V    6    CE10, CE11, CE12, CE13, CE14 ALU 20uF, 16V        
+                                           CE15
+ TLP701H(TP,F)       OPTOISO, 30V, 60mA    6    IC5, IC6, IC7, IC8, IC10     OPTOISO, 600mA, 10V ~ 30V 
+                                           IC11
+ W04G-E4/51GI-ND     BRIGE RECTIFIER    6    BR1, BR2, BR3, BR4, BR5, BR6 1 Phase, 400V, 1.5A  

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R8 Old Footprint=RES7, 47KOhm, 0.25W New Footprint=RES7, 47K, 0.25W
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

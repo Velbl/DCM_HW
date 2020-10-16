@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES2, 2.4KOHM, 0.25W New Footprint=RES2, 2K4, 0.25W
+Change Component Footprint: Designator=R3 Old Footprint=RES2, 2.4KOHM, 0.25W New Footprint=RES2, 2K4, 0.25W
+Change Component Comment : Designator=R1 Old Comment=CF14JT2K40 New Comment=270QBK-ND
+Change Component Comment : Designator=R3 Old Comment=CF14JT2K40 New Comment=270QBK-ND
+Change component parameters: Designator = "R1"; Footprint = "RES2, 2K4, 0.25W"; UniqueID = "\DXHVHOJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2K4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES2, 2K4, 0.25W"; UniqueID = "\HWAUFAAE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2K4"; VariantName = "[No Variations]"
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

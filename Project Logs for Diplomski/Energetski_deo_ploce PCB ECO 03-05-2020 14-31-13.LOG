@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=NetC19_1 Pin=Q5-2
+Removed Pin From Net: NetName=NetD0_1 Pin=Q5-3
+Added Component: Designator=Q5(TO-92_(TO-226))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/67/d1/ab/b4/95/b0/4c/33/CD00003040.pdf/files/CD00003040.pdf/jcr:content/translations/en.CD00003040.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed description"; Value = "N-Channel 400V 5.4A (Tc) 70W (Tc) Through Hole TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-key Part Number"; Value = "497-3200-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP7NK40ZFP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=NetC19_1 Pin=Q5-2
+Added Pin To Net: NetName=NetD0_1 Pin=Q5-3

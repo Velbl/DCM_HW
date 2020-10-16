@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=GND_AC Pin=BR1-1
+Removed Pin From Net: NetName=GND Pin=BR1-2
+Removed Pin From Net: NetName=GND Pin=BR1-3
+Removed Pin From Net: NetName=20VAC Pin=BR1-4
+Removed Pin From Net: NetName=MOT+ Pin=BR2-2
+Removed Pin From Net: NetName=MOT+ Pin=BR2-3
+Removed Pin From Net: NetName=26_h1 Pin=BR2-4
+Removed Pin From Net: NetName=MOT- Pin=BR3-2
+Removed Pin From Net: NetName=MOT- Pin=BR3-3
+Removed Pin From Net: NetName=26_h2 Pin=BR3-4
+Removed Pin From Net: NetName=GND Pin=BR4-2
+Removed Pin From Net: NetName=GND Pin=BR4-3
+Removed Pin From Net: NetName=26_l34 Pin=BR4-4
+Removed Pin From Net: NetName=VSS Pin=BR5-2
+Removed Pin From Net: NetName=VSS Pin=BR5-3
+Removed Pin From Net: NetName=26_vcc Pin=BR5-4
+Removed Pin From Net: NetName=20VAC Pin=P1-1
+Removed Pin From Net: NetName=GND_AC Pin=P1-2
+Removed Pin From Net: NetName=MOT+ Pin=P2-2
+Removed Pin From Net: NetName=MOT- Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=VSS Pin=P2-8
+Removed Member From Class: ClassName=Napajanje_1 Member=BR?
+Added Component: Designator=BR1(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number "; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number "; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR2(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number "; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number "; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR3(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number "; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number "; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR4(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number "; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number "; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR5(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description "; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number "; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number "; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HEADER 2 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BR1-1
+Added Pin To Net: NetName=20VAC Pin=BR1-2
+Added Pin To Net: NetName=GND Pin=BR1-3
+Added Pin To Net: NetName=GND_AC Pin=BR1-4
+Added Pin To Net: NetName=26_h1 Pin=BR2-1
+Added Pin To Net: NetName=20VAC Pin=BR2-2
+Added Pin To Net: NetName=MOT+ Pin=BR2-3
+Added Pin To Net: NetName=GND_AC Pin=BR2-4
+Added Pin To Net: NetName=26_h2 Pin=BR3-1
+Added Pin To Net: NetName=20VAC Pin=BR3-2
+Added Pin To Net: NetName=MOT- Pin=BR3-3
+Added Pin To Net: NetName=GND_AC Pin=BR3-4
+Added Pin To Net: NetName=26_l34 Pin=BR4-1
+Added Pin To Net: NetName=20VAC Pin=BR4-2
+Added Pin To Net: NetName=GND Pin=BR4-3
+Added Pin To Net: NetName=GND_AC Pin=BR4-4
+Added Pin To Net: NetName=26_vcc Pin=BR5-1
+Added Pin To Net: NetName=20VAC Pin=BR5-2
+Added Pin To Net: NetName=VSS Pin=BR5-3
+Added Pin To Net: NetName=GND_AC Pin=BR5-4
+Added Pin To Net: NetName=GND_AC Pin=P1-1
+Added Pin To Net: NetName=GND_AC Pin=P2-1
+Change Net Name : Old Net Name=26_h1 New Net Name=26V_h1
+Change Net Name : Old Net Name=26_h2 New Net Name=26V_h2
+Change Net Name : Old Net Name=26_l34 New Net Name=26V_l34
+Change Net Name : Old Net Name=26_vcc New Net Name=26V_vcc
+Change Net Name : Old Net Name=GND New Net Name=26V

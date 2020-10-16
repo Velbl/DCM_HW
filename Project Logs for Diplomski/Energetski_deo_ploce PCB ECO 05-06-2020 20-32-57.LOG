@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetIC9_6 Pin=R22-1
+Removed Pin From Net: NetName=NetIC9_6 Pin=R23-2
+Added Component: Designator=IC12(OP AMP L321)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM321MFX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm321mfxnopb/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lm321"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM321MFX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM321MFX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM321MFX-NOPB?qs=X1J7HmVL2ZEuBVxDJVTiBg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=IC12-2
+Added Pin To Net: NetName=NetIC9_6 Pin=IC12-4
+Added Pin To Net: NetName=NetC9_2 Pin=IC12-5
+Added Pin To Net: NetName=NetIC12_1 Pin=IC12-1
+Added Pin To Net: NetName=NetIC12_1 Pin=R22-1
+Added Pin To Net: NetName=NetIC12_1 Pin=R23-2
+Added Net: Name=NetIC12_1
+Added Pin To Net: NetName=NetIC12_3 Pin=IC12-3
+Added Pin To Net: NetName=NetIC12_3 Pin=P4-2
+Added Pin To Net: NetName=NetIC12_3 Pin=R23-1
+Added Net: Name=NetIC12_3
+Added Member To Class: ClassName=Energetski deo Member=Component IC12 OP AMP
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

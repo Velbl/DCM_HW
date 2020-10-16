@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetACS712_6 Pin=ACS712-6
+Added Net: Name=NetACS712_6
+Added Member To Class: ClassName=Energetski deo Member=Component C22 C0805C104K9RACTU
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

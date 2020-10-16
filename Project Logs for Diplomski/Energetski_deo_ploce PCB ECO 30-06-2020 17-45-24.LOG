@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetIC9_30 Pin=IC9-30
+Added Pin To Net: NetName=NetIC9_30 Pin=Q10-1
+Added Net: Name=NetIC9_30
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

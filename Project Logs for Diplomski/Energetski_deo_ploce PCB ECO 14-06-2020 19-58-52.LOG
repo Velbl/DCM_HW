@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetACS712_8 Pin=ACS712-8
+Removed Pin From Net: NetName=NetACS712_8 Pin=C22-1
+Removed Pin From Net: NetName=VSS Pin=C23-2
+Change Net Name : Old Net Name=NetACS712_8 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetOP_VDC?_3 New Net Name=NetOP_VDC_3
+Added Pin To Net: NetName=NetACS712_7 Pin=ACS712-7
+Added Pin To Net: NetName=NetACS712_7 Pin=IC9-5
+Added Net: Name=NetACS712_7
+Added Pin To Net: NetName=VCC Pin=ACS712-8
+Added Pin To Net: NetName=VCC Pin=C22-1
+Added Net: Name=VCC
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

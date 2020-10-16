@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=VCC Pin=C22-1
+Removed Pin From Net: NetName=VSS Pin=C22-2
+Removed Pin From Net: NetName=VSS Pin=C23-2
+Change Component Footprint: Designator=C22 Old Footprint=CAPC0603X33N New Footprint=K104Z15Y5VE5TL2
+Change Component Comment : Designator=C22 Old Comment=GRM033R61A104ME15D New Comment=K104Z15Y5VE5TL2
+Change component parameters: Designator = "C22"; Footprint = "K104Z15Y5VE5TL2"; UniqueID = "\GPYEBXLK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "K104Z15Y5VE5TL2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/k104z15y5ve5tl2/vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/45171/kseries.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "K104Z15Y5VE5TL2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "594-K104Z15Y5VE5TL2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/K104Z15Y5VE5TL2?qs=dZIvsO2gZWIlp1twxs%2FroQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0402C102K9RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0402c102k9ractu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0402C102K9RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0402C102K9R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0402C102K9R"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Energetski deo Member=Component C? C0402C102K9RACTU
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

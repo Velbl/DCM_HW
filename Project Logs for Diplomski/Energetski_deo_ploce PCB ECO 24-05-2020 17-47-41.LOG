@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=CE15-2
+Removed Pin From Net: NetName=GND Pin=IC11-4
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=ZD7-1
+Change Component Footprint: Designator=P1 Old Footprint=HEADER 2 PIN New Footprint=HEADER 4 PIN
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=Header 4
+Change component parameters: Designator = "P1"; Footprint = "HEADER 4 PIN"; UniqueID = "\UWCABUSB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/009652048_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0009652048"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0009652048?qs=PBcRNPEHKsr%252BMEGD33m%2F9w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BR6(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=BR6-2
+Added Pin To Net: NetName=NetC1_2 Pin=BR6-3
+Added Pin To Net: NetName=NetC1_2 Pin=C20-1
+Added Pin To Net: NetName=NetC1_2 Pin=C21-1
+Added Pin To Net: NetName=NetC1_2 Pin=CE15-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC11-4
+Added Pin To Net: NetName=NetC1_2 Pin=R11-1
+Added Pin To Net: NetName=NetC1_2 Pin=ZD7-1
+Change Net Name : Old Net Name=20VAC_1 New Net Name=20VAC
+Change Net Name : Old Net Name=NetC1_2 New Net Name=REF
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetBR6_2
+Added Pin To Net: NetName=12VAC Pin=BR6-1
+Added Pin To Net: NetName=12VAC Pin=P1-3
+Added Net: Name=12VAC
+Added Pin To Net: NetName=GND_AC_2 Pin=BR6-4
+Added Pin To Net: NetName=GND_AC_2 Pin=P1-4
+Added Net: Name=GND_AC_2
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR6 W04G-E4/51GI-ND
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

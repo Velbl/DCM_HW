@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=26V_h2 Pin=IC2-1
+Removed Pin From Net: NetName=NetC5_2 Pin=IC2-3
+Removed Pin From Net: NetName=26V_l34 Pin=IC3-1
+Removed Pin From Net: NetName=NetC7_2 Pin=IC3-3
+Removed Pin From Net: NetName=26V_vcc Pin=IC4-1
+Removed Pin From Net: NetName=NetC9_2 Pin=IC4-3
+Added Pin To Net: NetName=NetC5_2 Pin=IC2-1
+Added Pin To Net: NetName=26V_h2 Pin=IC2-3
+Added Pin To Net: NetName=NetC7_2 Pin=IC3-1
+Added Pin To Net: NetName=26V_l34 Pin=IC3-3
+Added Pin To Net: NetName=NetC9_2 Pin=IC4-1
+Added Pin To Net: NetName=26V_vcc Pin=IC4-3
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2

@@ -1,0 +1,16 @@
+Added Component: Designator=P2(HEADER 8 PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1727078.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "8 Position Wire to Board Terminal Block Horizontal with Board 0.150" (3.81mm) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "277-1953-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1727078"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Napajanje_1 Member=Component P1 Header
+Added Member To Class: ClassName=Napajanje_2 Member=Component P2 Connector 8
+Added Member To Class: ClassName=Energetski deo Member=Component P3 Connector 2
+Added Member To Class: ClassName=Energetski deo Member=Component P4 Connector 2
+Added Member To Class: ClassName=Napajanje_2 Member=Component P4 Header 3
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo

@@ -1,0 +1,46 @@
+Added Component: Designator=BR_DSP(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR_TRAN1(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR_TRAN2(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Component: Designator=BR_TRAN34(BRIGE RECTIFIER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "http://www.vishay.com/docs/88769/woo5g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "Bridge Rectifier Single Phase Standard 400V Through Hole WOG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "W04G-E4/51GI-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W04G-E4/51"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=20VND Pin=BR_DSP-1
+Added Pin To Net: NetName=VSS Pin=BR_DSP-2
+Added Pin To Net: NetName=26VD Pin=BR_DSP-3
+Added Pin To Net: NetName=20VPD Pin=BR_DSP-4
+Added Pin To Net: NetName=20VN1 Pin=BR_TRAN1-1
+Added Pin To Net: NetName=MOT+ Pin=BR_TRAN1-2
+Added Pin To Net: NetName=26V1 Pin=BR_TRAN1-3
+Added Pin To Net: NetName=20VP1 Pin=BR_TRAN1-4
+Added Pin To Net: NetName=20VN2 Pin=BR_TRAN2-1
+Added Pin To Net: NetName=MOT- Pin=BR_TRAN2-2
+Added Pin To Net: NetName=26V2 Pin=BR_TRAN2-3
+Added Pin To Net: NetName=20VP2 Pin=BR_TRAN2-4
+Added Pin To Net: NetName=20VN3 Pin=BR_TRAN34-1
+Added Pin To Net: NetName=GND Pin=BR_TRAN34-2
+Added Pin To Net: NetName=26V_l34 Pin=BR_TRAN34-3
+Added Pin To Net: NetName=20VP3 Pin=BR_TRAN34-4
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR_DSP W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR_TRAN1 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR_TRAN2 W04G-E4/51GI-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component BR_TRAN34 W04G-E4/51GI-ND
+Added Room: Name=Napajanje_1
+Added Room: Name=Upravljacki deo

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetIC12_6 Pin=R13-1
+Removed Pin From Net: NetName=NetIC9_5 Pin=R13-2
+Change Component Footprint: Designator=R13 Old Footprint=RES8, 20K, 0.25W - duplicate New Footprint=RES4, 10K, 0.25W - duplicate
+Change Component Footprint: Designator=R17 Old Footprint=RES8, 20K, 0.25W - duplicate New Footprint=RES4, 10K, 0.25W - duplicate
+Change Component Comment : Designator=R13 Old Comment=CFR-50JB-52-20K New Comment=CFR-25JR-52-10K
+Change Component Comment : Designator=R17 Old Comment=CFR-50JB-52-20K New Comment=CFR-25JR-52-10K
+Change component parameters: Designator = "R13"; Footprint = "RES4, 10K, 0.25W - duplicate"; UniqueID = "\DKCJIEKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cfr-25jr-52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-25JR-52-10K.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RES4, 10K, 0.25W - duplicate"; UniqueID = "\XKUAFBJD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cfr-25jr-52-10k/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-25JR-52-10K.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-25JR-52-10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CFR-25JR-5210K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC9_5 Pin=R13-1
+Added Pin To Net: NetName=NetIC12_6 Pin=R13-2
+Added Room: Name=Napajanje_1
+Added Room: Name=Upravljacki deo

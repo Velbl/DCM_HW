@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=NetACS712_7 Pin=IC12-3
+Removed Pin From Net: NetName=NetC19_1 Pin=Q5-1
+Removed Pin From Net: NetName=NetIC14_3 Pin=R1-1
+Removed Pin From Net: NetName=REF Pin=R1-2
+Removed Pin From Net: NetName=NetIC14_3 Pin=R2-2
+Removed Pin From Net: NetName=NetD0_1 Pin=R3-1
+Removed Pin From Net: NetName=REF Pin=R3-2
+Removed Pin From Net: NetName=NetIC13_3 Pin=R22-1
+Removed Pin From Net: NetName=NetP4_1 Pin=R22-2
+Removed Pin From Net: NetName=NetIC13_3 Pin=R23-2
+Change Component Footprint: Designator=R1 Old Footprint=Res2, 1 KOhm, 0.25W New Footprint=RES2, 2K4 OHM
+Change Component Footprint: Designator=R3 Old Footprint=Res2, 1 KOhm, 0.25W New Footprint=RES2, 2K4 OHM
+Change Component Footprint: Designator=R22 Old Footprint=Res2, 1 KOhm, 0.25W New Footprint=RES2, 2K4 OHM
+Change Component Comment : Designator=R1 Old Comment=1.0KQBK-ND New Comment=2K4R
+Change Component Comment : Designator=R3 Old Comment=1.0KQBK-ND New Comment=2K4R
+Change Component Comment : Designator=R22 Old Comment=1.0KQBK-ND New Comment=2K4R
+Change component parameters: Designator = "R1"; Footprint = "RES2, 2K4 OHM"; UniqueID = "\HBEIVLCM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_RSF_2013.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/RSF200JB-73-2K4?qs=oypCK0zG3272FlCgOod0PA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES2, 2K4 OHM"; UniqueID = "\OUNGDXOJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_RSF_2013.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/RSF200JB-73-2K4?qs=oypCK0zG3272FlCgOod0PA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "RES2, 2K4 OHM"; UniqueID = "\SHOQWFTA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_RSF_2013.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RSF200JB-73-2K4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/RSF200JB-73-2K4?qs=oypCK0zG3272FlCgOod0PA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES4, 10KOhm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "10 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "10KQTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES8, 20KOHM, 0.5W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CFR-50JB-52-20K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cfr-50jb-52-20k/yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_CFR_2013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-50JB-52-20K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-50JB-52-20K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/CFR-50JB-52-20K?qs=oypCK0zG326PKPIoPcSOTg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES4, 10KOhm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "10 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "10KQTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES9, 150 KOHM, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CFR-25JR-52-150K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_CFR_2013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-25JR-52-150K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-25JR-52150K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=FgpgYE4ooylwklvL6ztvVw%3d%3d"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES4, 10KOhm, 0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet link"; Value = "https://www.yageo.com/upload/media/product/products/datasheet/lr/Yageo_LR_CFR_1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Description"; Value = "10 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "10KQTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CFR-25JB-52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES8, 20KOHM, 0.5W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CFR-50JB-52-20K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cfr-50jb-52-20k/yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/Yageo%20LR_CFR_2013.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-50JB-52-20K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-50JB-52-20K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/CFR-50JB-52-20K?qs=oypCK0zG326PKPIoPcSOTg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REF Pin=R1-1
+Added Pin To Net: NetName=REF Pin=R3-1
+Added Pin To Net: NetName=NetD0_1 Pin=R3-2
+Added Pin To Net: NetName=NetIC14_3 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetIC9_6 Pin=R13-2
+Added Pin To Net: NetName=NetACS712_7 Pin=R14-2
+Added Pin To Net: NetName=VSS Pin=R15-1
+Added Pin To Net: NetName=NetIC9_4 Pin=R15-2
+Added Pin To Net: NetName=NetIC13_3 Pin=R16-1
+Added Pin To Net: NetName=NetIC13_2 Pin=R17-1
+Added Pin To Net: NetName=NetIC9_7 Pin=R17-2
+Added Pin To Net: NetName=NetP4_1 Pin=R22-1
+Added Pin To Net: NetName=NetIC12_3 Pin=IC12-3
+Added Pin To Net: NetName=NetIC12_3 Pin=R14-1
+Added Net: Name=NetIC12_3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=R12-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R22-2
+Added Pin To Net: NetName=NetR16_2 Pin=R23-2
+Added Net: Name=NetR16_2
+Added Member To Class: ClassName=Napajanje_1 Member=Component R12 10KQTR-ND
+Added Member To Class: ClassName=Napajanje_1 Member=Component R13 CFR-50JB-52-20K
+Added Member To Class: ClassName=Energetski deo Member=Component R14 10KQTR-ND
+Added Member To Class: ClassName=Energetski deo Member=Component R15 CFR-25JR-52-150K
+Added Member To Class: ClassName=Energetski deo Member=Component R16 10KQTR-ND
+Added Member To Class: ClassName=Energetski deo Member=Component R17 CFR-50JB-52-20K
+Added Room: Name=Energetski deo
+Added Room: Name=Napajanje_1
+Added Room: Name=Napajanje_2
+Added Room: Name=Upravljacki deo
